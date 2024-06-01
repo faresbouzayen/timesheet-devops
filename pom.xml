@@ -12,6 +12,7 @@
 	<artifactId>timesheet-devops</artifactId>
 	<version>1.0</version>
 	<name>timesheet-devops</name>
+
 	<description>tp-spring-jsf-crud</description>
 	<properties>
 		<java.version>1.8</java.version>
