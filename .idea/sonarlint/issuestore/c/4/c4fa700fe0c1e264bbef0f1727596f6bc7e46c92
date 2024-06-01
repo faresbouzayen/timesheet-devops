@@ -1,0 +1,28 @@
+
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏàÈêúÿÿÿÿ8Í¨’šı1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8×¨’šı1
+T
+java:S1135$"2Complete the task associated to this TODO comment.(æïºùÿÿÿÿ8á¨’šı1
+O
+java:S1135&"2Complete the task associated to this TODO comment.(ıí©á8â¨’šı1
+L	java:S106)"+Replace this use of System.out by a logger.(Ÿ§ï´ÿÿÿÿÿ8ã¨’šı1
+N
+java:S14813",Remove this unused "u_saved" local variable.(ÏàÈêúÿÿÿÿ8ä¨’šı1
+T
+java:S11357"2Complete the task associated to this TODO comment.(æïºùÿÿÿÿ8å¨’šı1
+O
+java:S11359"2Complete the task associated to this TODO comment.(ıí©á8å¨’šı1
+X	java:S125<"<This block of commented-out lines of code should be removed.(ÖÃ¨Ï8å¨’šı1
+O
+java:S1135<"2Complete the task associated to this TODO comment.(ÖÃ¨Ï8å¨’šı1
+T
+java:S1135F"2Complete the task associated to this TODO comment.(æïºùÿÿÿÿ8ç¨’šı1
+O
+java:S1135H"2Complete the task associated to this TODO comment.(ıí©á8è¨’šı1
+X	java:S125K"<This block of commented-out lines of code should be removed.(æ­°à8è¨’šı1
+O
+java:S1135K"2Complete the task associated to this TODO comment.(æ­°à8è¨’šı1
+E	java:S108V")Either remove or fill this block of code.(”ı¾8ë¨’šı1
+B
+java:S1068"%Remove this unused "l" private field.(²Ù„¹8ë¨’šı1

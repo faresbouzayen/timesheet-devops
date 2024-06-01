@@ -38,7 +38,7 @@ public class UserServiceImpl implements IUserService {
 			// TODO Log à ajouter à la fin de la méthode 
 
 		} catch (Exception e) {
-			// TODO log ici : l....("error in addUser() : " + e);
+			System.out.println("buggy code");
 		}
 
 		return utilisateur; 
