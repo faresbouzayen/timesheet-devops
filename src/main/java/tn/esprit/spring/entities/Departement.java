@@ -15,7 +15,7 @@ import javax.persistence.ManyToOne;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 
-@Entity
+@Entity(name = "Departement")
 public class Departement implements Serializable {
 
 	private static final long serialVersionUID = -357738161698377833L;
@@ -72,6 +72,6 @@ public class Departement implements Serializable {
 	public void setEntreprise(Entreprise entreprise) {
 		this.entreprise = entreprise;
 	}
-	 
+
 }
  
