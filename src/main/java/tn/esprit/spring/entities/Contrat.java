@@ -87,5 +87,8 @@ public class Contrat implements Serializable {
 	public void setEmploye(Employe employe) {
 		this.employe = employe;
 	}
+	public String getDataBack(Employe employe){
+		return "Emplyees data" + employe.getContrat() + employe.getEmail() + employe.getNom() + employe.getPrenom();
+	}
  
 }
